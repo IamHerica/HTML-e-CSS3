@@ -1,0 +1,25 @@
+body {
+    background-image: img/back;
+}
+
+
+h1 {
+    font-size: 60px;
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+    background-color:rgba(199, 194, 194, 0.39);
+  }
+
+p {
+    font-size: 21px;;
+    font-family: initial;
+    color: rgb(45, 9, 110) ;
+}
+h2 {
+    font-size: 40px;
+    font-family: monospace;
+    color: darkslateblue;
+  }
+h3 {
+    font-style: italic;
+  }
