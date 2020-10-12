@@ -1,25 +1,29 @@
 body {
-    background-image: img/back;
+   /*background-image: url(img/back.jpg); */
+   background-color: rgb(70, 102, 245);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
-
-
 h1 {
     font-size: 60px;
     font-family: monospace;
     color: rgb(0, 0, 0);
-    background-color:rgba(199, 194, 194, 0.39);
+    background-color:rgba(37, 0, 248, 0.322);
   }
-
 p {
     font-size: 21px;;
     font-family: initial;
-    color: rgb(45, 9, 110) ;
+    color: rgb(0, 0, 0) ;
 }
-h2 {
-    font-size: 40px;
-    font-family: monospace;
-    color: darkslateblue;
-  }
-h3 {
+ul {
     font-style: italic;
+    font-size:18px ;
+}
+h3 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
