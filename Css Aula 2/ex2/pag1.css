@@ -1,0 +1,23 @@
+ h3 {
+      text-align: center;
+      margin: 0;
+  }
+  header{
+    background-color: yellow;
+    height: 89px;
+  }
+  nav {
+    background-color: blue;
+    height: 50px;
+  }
+  section {
+    background-color: aqua;
+    height: 450px;
+
+  }
+
+  footer {
+    background-color: yellowgreen;
+    height: 30px;
+
+  }
