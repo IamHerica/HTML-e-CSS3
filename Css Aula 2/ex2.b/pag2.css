@@ -1,0 +1,27 @@
+h3 {
+    text-align: center;
+    margin: 0;
+}
+header{
+  background-color: green;
+  height: 89px;
+}
+nav {
+  background-color: blue;
+  height: 50px;
+}
+aside {
+    background-color: green;
+    height: 450px;
+    width: 15%;
+    float:left;
+
+}
+section {
+  background-color: aqua;
+  height: 450px;
+}
+footer {
+  background-color: yellowgreen;
+  height: 30px;
+}
