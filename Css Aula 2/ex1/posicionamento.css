@@ -5,7 +5,6 @@
     left:0px;
     width:100px;
     height:100px;
-    text-align: center;
 }
 .esqcima {
     position:absolute;
@@ -14,7 +13,6 @@
     left:0;
     width:100px;
     height:100px;
-    text-align: center;
 }
 .dircima {
     position: absolute;
@@ -23,7 +21,6 @@
     right:0;
     width:100px;
     height:100px;
-    text-align: center;
 }
 .dirbaixo {
     position: absolute;
@@ -32,5 +29,4 @@
     right:0; 
     width:100px;
     height:100px;
-    text-align: center;
 }
